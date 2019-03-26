@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e340891f-d6c7-4872-b77e-23673cd833ee</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Token</defaultValue>
+      <description></description>
+      <id>ef482d0f-c768-4c7e-a2da-e9ecbd87f649</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>
